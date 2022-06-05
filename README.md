@@ -1,10 +1,4 @@
-+++
-title= "Cats vs. Dogs Image Classifier"
-date= "2022-04-06"
-author= "Grant Barland"
-cover = "img/projects/woof_meow.jpg"
-description = "Image Classification transfer learning problem using Keras and Resnet"
-+++
+![doge](img/projects/woof_meow.jpg)
 
 # Introduction
 
